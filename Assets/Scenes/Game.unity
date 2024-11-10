@@ -2300,7 +2300,7 @@ GameObject:
   - component: {fileID: 1421381441}
   m_Layer: 0
   m_Name: slimeMapa
-  m_TagString: Untagged
+  m_TagString: Enemigo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2592,7 +2592,7 @@ GameObject:
   - component: {fileID: 1460404872}
   m_Layer: 0
   m_Name: "Ara\xF1itaMapa (1)"
-  m_TagString: Untagged
+  m_TagString: Enemigo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
